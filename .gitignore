@@ -28,9 +28,9 @@ target
 results
 demo/img/sc
 demo/img/th
-demo/img/cv
+demo/img/cvrm
 results/.DS_Store
 results/out.txt
 .txt
-*.DS_Store
+.DS_Store
 
